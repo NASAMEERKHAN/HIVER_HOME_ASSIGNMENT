@@ -1,0 +1,3 @@
+# Runtime dependencies intentionally kept lightweight for Windows compatibility.
+# The demo uses only Python standard library.
+# pandas/scikit-learn are not required to run the agent.

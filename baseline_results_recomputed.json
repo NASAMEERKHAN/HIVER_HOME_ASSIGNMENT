@@ -1,0 +1,14 @@
+{
+  "majority": {
+    "accuracy_mean": 0.265,
+    "accuracy_std": 0.012247448713915901,
+    "macro_f1_mean": 0.034389140271493215,
+    "macro_f1_std": 0.002073929338509312
+  },
+  "tfidf_logreg": {
+    "accuracy_mean": 0.32,
+    "accuracy_std": 0.06782329983125267,
+    "macro_f1_mean": 0.21920715491982462,
+    "macro_f1_std": 0.06855371365503975
+  }
+}
